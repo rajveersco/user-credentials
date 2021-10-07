@@ -1,0 +1,170 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600&display=swap');
+
+body{
+margin: 0;
+overflow: hidden;
+}
+
+.smain, .bg {
+    width: 100%; 
+    height: 100vh;
+    box-sizing: border-box;
+    background-image: linear-gradient(117deg, #004756, #002832 100%);
+}
+
+.ele {
+    width: 1920px;
+    height: 980px;
+}
+
+
+/* Elements: Blured_Circles */
+.blurcr{
+    width: 300px;
+    height: 300px;
+    opacity: 0.20;
+    border-radius: 50%;
+    position: relative;
+    -webkit-filter: blur(50px);
+    filter: blur(50px);
+    background-color: #34ecbf;
+}
+
+.b1{
+    margin: -1100px 1600px 750px -150px ;
+}
+
+.b2{
+    margin: -120px 0px 0px 1730px;
+}
+
+/* Form */
+
+.main{
+    width: 482px;
+    height: 527px;
+    position:absolute;
+    top: 200px;
+    right: 719px;
+}
+
+.logo{
+    height: 100%;
+    width: 100%;
+    text-align: center;
+    margin-bottom: 72px;
+}
+
+.po{
+    font-family: poppins;
+    font-weight: 300;
+}
+
+.s20{
+    font-size: 20px;
+    color: white;
+    opacity: 0.7;
+}
+
+.align{
+    text-align: center;
+    margin: 0;
+}
+
+.input1 input{
+    margin-top: 8px;
+    width: 480px;
+    height: 60px;
+    background-color: transparent;
+    border-radius: 10px;
+    outline: none;
+    border: 1px solid #809AA0;
+    padding-left: 16px;
+    font-size: 16px;
+    font-family: poppins;
+    font-weight: 300;
+    margin-bottom: 24px;
+    color: whitesmoke;
+}
+
+::placeholder{
+    color: #809AA0;
+}
+
+.input1 input:focus,
+.input1 input:valid{
+    border-color: #34ecbf;
+}
+
+button{
+    width: 500px;
+    height: 54px;
+    background-color: #34ecbf;
+    border-radius: 10px;
+    border-color: transparent;
+    font-size: 20px;
+    font-weight: medium;
+    font-family: poppins;
+    margin-top: 32px;
+    margin-bottom: 32px;
+}
+
+button:hover{
+    background-color: #6dffda;
+}
+
+
+
+/* Success page */
+
+.sub{
+
+    margin-top: 0;
+    margin-bottom: 5px;
+    font-size: 50px;
+    font-weight: bold;
+    color: white;
+
+}
+
+.container{
+    width: 800px;
+    height: 300px;
+    position: absolute;
+    text-align: center;
+    top: 50%;
+    margin-top: -150px;
+    left: 50%;
+    margin-left: -400px;
+}
+
+/* Success page */
+
+.btn{
+    width: 160px;
+    height: 60px;
+    background-color: #ee3860;
+    border-radius: 6px;
+    color: white;
+    border-color: transparent;
+    font-size: 20px;
+    font-weight: medium;
+    font-family: poppins;
+    margin-top: 32px;
+    margin-bottom: 32px;
+}
+
+.btn:hover{
+    background-color: #e96682;
+}
+
+#color{
+    color:rgb(0, 255, 255);
+}
+
+.he{
+
+    position: relative;
+    top: 16px;
+}
+
