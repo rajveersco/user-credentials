@@ -10,7 +10,7 @@ app.use(express.static(__dirname));
 app.use(bodyParser.urlencoded({extended: true})); 
 
 app.get("/", function(req, res){   
-    res.sendFile(__dirname + '/signup.html');
+    res.sendFile(__dirname + '/index.html');
 });
 
 app.post("/", function(req, res){    
@@ -45,7 +45,7 @@ app.post("/", function(req, res){
         //success page
 
         if(response.statusCode === 200){
-            res.sendFile(__dirname + "/success.html");
+            res.sendFile(__dirname + "/index.html");
         } else {
             res.sendFile(__dirname + "/failure.html");
         }
