@@ -11,5 +11,5 @@ CENTURYLOGIN is a client login page, at where user credentials will be saved in 
 5. Error (200 or 205) will be occured else..........
 6. The requested data from js variables will be asssinged to mailchimp specific variables
 7. Then the data will be set into audience panel of mailchimp from where the operation can be carried forward
-8. The data fetched (email & password) email will be used as a automation for eamil campaign right just after user submission
-9. END  
+8. The data fetched (email & password) email will be used as an automation for eamil campaigns just right after the user submission
+10. THE END  
