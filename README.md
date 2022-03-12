@@ -1,5 +1,5 @@
 # user-credentials
-CENTURY LOGIN is a client login page, at where user credentials will be saved in the Mailchimp via API integration and the same data will be used for the campaign to update the clients about their project timeline. <br>
+CENTURY LOGIN is a client login page, at where user credentials will be save in the Mailchimp via API integration and the same data will be used for the campaign to update the clients about their project timeline. <br>
 Handling credentials for multiple usages is quite seductive. 😎
 
 
