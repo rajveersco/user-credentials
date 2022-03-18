@@ -15,6 +15,7 @@ Handling credentials for multiple usages is quite seductive. 😎
 8. The data fetched (email & password) email will be used as an automation for email campaigns just right after the user submission.
 
 # Previews
+<img src="https://github.com/rajveersco/LetsDo/blob/master/Preview/HOME%402x.png">
 <img src="https://raw.githubusercontent.com/rajveersco/user-credentials/master/Previews/Log%20In.png">
 <hr>
 <img src="https://raw.githubusercontent.com/rajveersco/user-credentials/master/Previews/Success.png">
