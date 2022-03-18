@@ -14,6 +14,7 @@ Handling credentials for multiple usages is quite seductive. 😎
 7. Then the data will be set into audience panel of mailchimp from where the operation can be carried forward.
 8. The data fetched (email & password) email will be used as an automation for email campaigns just right after the user submission.
 
+<img src="https://github.com/rajveersco/LetsDo/blob/master/Preview/Group%203599%402x.png">
 # Previews
 <img src="https://raw.githubusercontent.com/rajveersco/user-credentials/master/Previews/Log%20In.png">
 <hr>
